@@ -7,3 +7,7 @@
 ## findAndReserveSeats(): Finds and reserves consecutive available seats.
 ## findAvailableSeatsInRow(): Checks if there are n available seats in a row.
 ## reserveSeatsInRow(): Marks the selected seats as reserved.
+
+
+##ZIP FILE
+[angular-wqctvk-main.zip](https://github.com/user-attachments/files/17180870/angular-wqctvk-main.zip)

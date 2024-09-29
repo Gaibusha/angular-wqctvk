@@ -9,5 +9,5 @@
 ## reserveSeatsInRow(): Marks the selected seats as reserved.
 
 
-##ZIP FILE
+## ZIP FILE
 [angular-wqctvk-main.zip](https://github.com/user-attachments/files/17180870/angular-wqctvk-main.zip)
